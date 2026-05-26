@@ -43,7 +43,7 @@
         "cols": ["B2", "B3", "B7", "B1", "F5", "F4", "F6", "F7", "B0", "F0", "F1", "D0", "D1", "D2", "D5", "B6", "C7"],
         "rows": ["D4", "D6", "D7", "B4", "B5"]
     },
-    "diode_direction": "ROW2COL",
+    "diode_direction": "COL2ROW",
     "processor": "atmega32u4",
     "bootloader": "atmel-dfu",
     "layout_aliases": {
